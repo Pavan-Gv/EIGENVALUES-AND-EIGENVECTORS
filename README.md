@@ -20,7 +20,6 @@ a=np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
 values,vectors=np.linalg.eig(a)
 print ("Eigen values are",values, "and Eigen Vectors are",vectors)
 ## Output:
-![Eigen](/values/eig.png)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
