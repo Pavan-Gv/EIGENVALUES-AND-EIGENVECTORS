@@ -22,6 +22,6 @@ values,vectors=np.linalg.eig(a)
 print ("Eigen values are",values, "and Eigen Vectors are",vectors)
 ~~~
 ## Output:
-
+![Eigen values](/values/git.png)
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
